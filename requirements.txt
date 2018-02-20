@@ -1,0 +1,6 @@
+Flask
+marshmallow
+webargs
+requests
+humanfriendly
+uwsgi
